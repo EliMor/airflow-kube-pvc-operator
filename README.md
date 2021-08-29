@@ -9,3 +9,7 @@ Aspirations:
 - would be cool to modify the UI to show the pvc is bound to the Job
 - throw a warning if resource quota for storage limit in namespace is not set, Airflow should help onboard people to kube 'best practices'
 
+
+## Notes
+
+Not to be used yet
